@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Boulevard Café & Bistro — Direct Ordering",
+  "description": "Bilingual (FR/AR) Phase-2 Direct Takeaway & QR Table Ordering Extension Concept for an all-day coastal Moroccan-Mediterranean café and bistro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
